@@ -1,0 +1,3 @@
+Day 1:
+- Created the folder structure for my learning portfolio.
+- Prepared to add MATLAB, embedded, and digital logic experiments.
