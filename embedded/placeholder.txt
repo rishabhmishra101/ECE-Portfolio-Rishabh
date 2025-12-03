@@ -1,0 +1,1 @@
+This folder will contain embedded code samples (Arduino and microcontrollers).
