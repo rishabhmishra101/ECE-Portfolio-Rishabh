@@ -1,1 +1,0 @@
-This folder will contain logic gate experiments and digital design work.
