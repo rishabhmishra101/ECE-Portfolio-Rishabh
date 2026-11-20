@@ -17,9 +17,9 @@ This repository is my engineering portfolio and learning log: experiments, notes
 
 | Repository | Description | Status |
 |---|---|---|
-| [Telepety](https://github.com/rishabhmishra101/Telepety) | Low-cost telepresence robotics project; repository documentation and implementation are being developed | In progress |
+| [Telepety](https://github.com/rishabhmishra101/Telepety) | Telepresence robotics project combining a web-based calling interface and robot-control concept | In progress |
 | [MATLAB Signal Analysis](https://github.com/rishabhmishra101/matlab-signal-analysis) | Stellar spectra analysis: plotting spectra, identifying hydrogen-alpha absorption, and estimating redshift/radial velocity | Learning project |
-| [ECE Portfolio](https://github.com/rishabhmishra101/ECE-Portfolio-Rishabh) | Experiments, learning notes, and engineering practice | Active learning repository |
+| **This portfolio** | Small experiments, notes, and learning records | Active learning repository |
 
 ## Current Learning Priorities
 
@@ -30,6 +30,13 @@ This repository is my engineering portfolio and learning log: experiments, notes
 5. Develop a foundation in STM32, debugging, and real-time embedded concepts.
 6. Continue learning digital design and VLSI in parallel.
 
+## Repository Map
+
+- [embedded/](embedded/) — embedded programming experiments and project notes
+- [digital-logic/](digital-logic/) — digital logic and design exercises
+- [matlab/](matlab/) — MATLAB experiments and signal-visualization work
+- [notes/](notes/) — concise learning logs and engineering reflections
+
 ## Engineering Approach
 
 - Build small, testable increments.
@@ -37,10 +44,6 @@ This repository is my engineering portfolio and learning log: experiments, notes
 - Document assumptions, limitations, and debugging lessons.
 - Prefer reproducible instructions over unexplained screenshots.
 - Keep project status honest: **planned**, **in progress**, or **completed**.
-
-## Repository Structure
-
-The structure will evolve around actual work rather than empty folders. Project-specific repositories will hold their source code, setup instructions, schematics, test results, and detailed documentation where appropriate. This portfolio repository serves as an index and learning record.
 
 ## Connect
 
