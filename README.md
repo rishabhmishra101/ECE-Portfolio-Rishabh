@@ -1,84 +1,51 @@
-# Rishabh’s Electronics Engineering Journey
+# Rishabh Mishra | Electronics & Embedded Systems
 
-Welcome to my learning portfolio.  
-I am an Electronics and Communication Engineering student building my foundation in embedded systems, digital design, robotics basics, and hardware–software integration.
+Electronics engineering undergraduate focused on **embedded systems, robotics, and hardware–software integration**, with a complementary interest in **VLSI and digital design**.
 
-This repository is not a showcase of perfection — it is a record of steady progress.  
-I update it at my own pace, especially during exams or heavy academic periods.
+This repository is my engineering portfolio and learning log: experiments, notes, small implementations, and project documentation as I build practical skills.
 
----
+> I aim to document what I have actually built, what I understand, and what I am currently learning—not present planned work as completed work.
 
-## 🎯 Current Learning Directions
-These are the areas I am actively exploring at a beginner level:
+## Focus Areas
 
-- Embedded systems (C, microcontrollers, hardware interaction)
-- Digital design fundamentals (logic circuits, truth tables)
-- Robotics basics (sensors, actuators, simple autonomous behavior)
-- MATLAB basics (signal visualization and simple analysis)
+- **Embedded systems:** C, microcontrollers, peripheral interfaces, firmware fundamentals
+- **Robotics:** sensors, actuators, motor control, autonomous behavior, system integration
+- **Electronics & digital design:** circuit fundamentals, logic design, VLSI concepts
+- **Engineering tools:** MATLAB, Linux, Git, simulation and debugging tools
 
-I am focusing on **building hands-on intuition first**, and refining theory as I grow.
+## Selected Work
 
----
+| Repository | Description | Status |
+|---|---|---|
+| [Telepety](https://github.com/rishabhmishra101/Telepety) | Low-cost telepresence robotics project; repository documentation and implementation are being developed | In progress |
+| [MATLAB Signal Analysis](https://github.com/rishabhmishra101/matlab-signal-analysis) | Stellar spectra analysis: plotting spectra, identifying hydrogen-alpha absorption, and estimating redshift/radial velocity | Learning project |
+| [ECE Portfolio](https://github.com/rishabhmishra101/ECE-Portfolio-Rishabh) | Experiments, learning notes, and engineering practice | Active learning repository |
 
-## 📁 What This Repository Contains
-This repo will gradually include:
+## Current Learning Priorities
 
-- Small MATLAB experiments  
-- Digital logic simulations  
-- Beginner embedded code examples  
-- Notes and summaries of what I learn  
-- Mini-projects and experiments  
-- Reflections on challenges and improvements  
+1. Strengthen C programming and problem-solving fundamentals.
+2. Learn microcontroller programming through small, working experiments.
+3. Practice GPIO, PWM, ADC, UART, I²C, SPI, and interrupts as projects require them.
+4. Build and document sensor-and-motor systems.
+5. Develop a foundation in STM32, debugging, and real-time embedded concepts.
+6. Continue learning digital design and VLSI in parallel.
 
-The goal is to make learning **visible, consistent, and practical**.
+## Engineering Approach
 
----
+- Build small, testable increments.
+- Understand the hardware/software boundary.
+- Document assumptions, limitations, and debugging lessons.
+- Prefer reproducible instructions over unexplained screenshots.
+- Keep project status honest: **planned**, **in progress**, or **completed**.
 
-## 🚀 Progress Log  
-(Updated only when real progress happens — no fixed schedule.)
+## Repository Structure
 
-- Created this portfolio repository ✔  
-- Started initial MATLAB practice ✔  
-- Began exploring digital logic simulations ✔  
+The structure will evolve around actual work rather than empty folders. Project-specific repositories will hold their source code, setup instructions, schematics, test results, and detailed documentation where appropriate. This portfolio repository serves as an index and learning record.
 
-Upcoming:
-- First embedded program (LED blink)
-- First MATLAB signal plot saved
-- First documented digital experiment
+## Connect
 
----
-
-## 🛠️ Skills I Am Building
-(Current stage: beginner → improving)
-
-- C programming for embedded systems  
-- Python basics  
-- Arduino / microcontroller fundamentals  
-- Understanding of logic gates and circuit behavior  
-- Debugging simple circuits  
-- MATLAB basics for signal visualization  
-
-My focus is on **small wins** that build confidence and momentum.
+- GitHub: [@rishabhmishra101](https://github.com/rishabhmishra101)
 
 ---
 
-## 🌱 Mindset & Approach
-I learn best through:
-
-- Hands-on experiments  
-- Breaking concepts into small, manageable steps  
-- Reflecting on mistakes without self-pressure  
-- Celebrating progress, even when small  
-
-This repository helps me stay grounded, organized, and consistent.
-
----
-
-## 📌 Future Additions (Planned but not rushed)
-- LED blink and sensor-based embedded programs  
-- Basic robotics experiments  
-- MATLAB scripts for simple signal operations  
-- Circuit simulations using Tinkercad / LTspice  
-- Documenting each project with notes and results  
-
-As my engineering understanding grows, this repository will grow with me.
+*Learning by building, testing, debugging, and documenting.*
